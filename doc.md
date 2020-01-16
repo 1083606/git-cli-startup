@@ -41,4 +41,5 @@ hello(){
 
 ![](./github.png)
 
-[Go to Header1] (#Header1)
+[Go to header1] (#header1)
+[Go to page A] (./a.md)
