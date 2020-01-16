@@ -41,5 +41,5 @@ hello(){
 
 ![](./githu.png)
 
-[Go to Header1] (#Header1)
-[Go to page A] (./a.md)
+{Go to Header1} (#Header1)
+{Go to page A} (./a.md)
