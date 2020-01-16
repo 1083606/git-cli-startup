@@ -1,4 +1,4 @@
-# header1
+# Header1
 ## header2
 
 #### header4
@@ -39,7 +39,7 @@ hello(){
 }
 ```
 
-![](./github.png)
+![](./githu.png)
 
-[Go to header1] (#header1)
+[Go to Header1] (#Header1)
 [Go to page A] (./a.md)
